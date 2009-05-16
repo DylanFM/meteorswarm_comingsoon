@@ -7,7 +7,14 @@ html
 div#title-logo
 {
 	background-image: url('../images/meteorswarm_logo.png');
-	margin: 0 auto;
+	margin: 100px auto 0px auto;
 	width: 512px;
 	height: 256px;
+}
+
+.sub-heading
+{
+	text-shadow: #000 0.3em 0.3em 0.22em;
+	text-transform: uppercase;
+	font-size: 138.5%;
 }
