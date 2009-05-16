@@ -3,3 +3,11 @@ html
 	background-color: #323b5a;
 	color: white;
 }
+
+div#title-logo
+{
+	background-image: url('../images/meteorswarm_logo.png');
+	margin: 0 auto;
+	width: 512px;
+	height: 256px;
+}
