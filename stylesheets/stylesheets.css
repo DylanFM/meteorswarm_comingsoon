@@ -1,20 +1,7 @@
-html
-{
-	background-color: #323b5a;
-	color: white;
-}
+html {background:#000 url('../images/body-bg.jpg') top center no-repeat}
 
-div#title-logo
-{
-	background-image: url('../images/meteorswarm_logo.png');
-	margin: 100px auto 0px auto;
-	width: 512px;
-	height: 256px;
-}
+div {position:relative;width:512px;height:256px;background:transparent url('../images/meteorswarm_logo.png') 0 0 no-repeat;margin:170px auto 0 auto}
 
-.sub-heading
-{
-	text-shadow: #000 0.3em 0.3em 0.22em;
-	text-transform: uppercase;
-	font-size: 138.5%;
-}
+h1,h2,p {text-indent:-999em}
+
+h2 {width:241px;height:47px;position:absolute;top:230px;left:135px;background:transparent url('../images/coming-soon.png') 0 0 no-repeat}
